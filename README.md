@@ -14,17 +14,13 @@ HEALPER 是一款專為優化健康資訊查詢與管理而開發的 Android 智
 
 ## 🛠️ 技術堆疊 (Tech Stack)
 * **前端 / App 開發：** Kotlin, Android Studio
-* **API 串接：** OpenAI API, Fitbit API, RESTful API
+* **API 串接：** OpenAI API(gpt-3.5), Fitbit API, RESTful API
 * **後端 / 雲端服務：** Firebase
 * **版本控制：** Git, GitHub
 
 ## 📸 系統截圖 (Screenshots)
-*(💡 這裡記得放 2-3 張 App 實際運作的截圖，直接把圖片拖曳到 GitHub 編輯框就會產生網址)*
 
-| 首頁 / 健康數據 | 智慧客服對話介面 | 個人設定與雲端同步 |
+| 側邊功能欄 | 運動數據 | 首頁|
 | :---: | :---: | :---: |
-| <img src="[<img width="726" height="1467" alt="w2" src="https://github.com/user-attachments/assets/79cbc5eb-1d38-4884-b1a5-da5e5c5f916d" />
-]" width="250"/> | <img src="[<img width="720" height="1446" alt="w3" src="https://github.com/user-attachments/assets/8a344139-2e51-4f25-bf68-1e4139247fb2" />
-]" width="250"/> | <img src="[<img width="726" height="1467" alt="w2" src="https://github.com/user-attachments/assets/d8d80815-76d0-4da4-9442-f745bf91a90c" />
-]" width="250"/> |
+| <img width="300" height="1467" alt="w2" src="https://github.com/user-attachments/assets/82625ea6-e651-4565-ab01-912ded2a5499" /> | <img width="300" height="1467" alt="w1" src="https://github.com/user-attachments/assets/8b934167-b9a8-49f3-93fd-3384433c6a17" /> | <img width="300" height="1446" alt="w3" src="https://github.com/user-attachments/assets/83d06194-dee6-4e43-bdf5-c5174ba9c19c" /> |
 
