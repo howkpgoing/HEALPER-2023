@@ -18,3 +18,13 @@ HEALPER 是一款專為優化健康資訊查詢與管理而開發的 Android 智
 * **後端 / 雲端服務：** Firebase
 * **版本控制：** Git, GitHub
 
+## 📸 系統截圖 (Screenshots)
+*(💡 這裡記得放 2-3 張 App 實際運作的截圖，直接把圖片拖曳到 GitHub 編輯框就會產生網址)*
+
+| 首頁 / 健康數據 | 智慧客服對話介面 | 個人設定與雲端同步 |
+| :---: | :---: | :---: |
+| <img src="[<img width="726" height="1467" alt="w2" src="https://github.com/user-attachments/assets/79cbc5eb-1d38-4884-b1a5-da5e5c5f916d" />
+]" width="250"/> | <img src="[<img width="720" height="1446" alt="w3" src="https://github.com/user-attachments/assets/8a344139-2e51-4f25-bf68-1e4139247fb2" />
+]" width="250"/> | <img src="[<img width="726" height="1467" alt="w2" src="https://github.com/user-attachments/assets/d8d80815-76d0-4da4-9442-f745bf91a90c" />
+]" width="250"/> |
+
